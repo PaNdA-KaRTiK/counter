@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">counter</string>
+    <string name="CountIncrement">Count+1</string>
+    <string name="CountDecrement">Count-1</string>
+</resources>
